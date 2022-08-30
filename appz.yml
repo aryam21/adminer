@@ -21,4 +21,4 @@ properties:
     MFA_PROVIDER : none
     AUTHSECRET: 
         vault : ADMINER_AUTHSECRET
-    EMAIL_SENDER: '"ApexaiQ" <no-reply@apexaiqtest.com>'
+    #EMAIL_SENDER: '"ApexaiQ" <no-reply@apexaiqtest.com>'
